@@ -7,3 +7,5 @@ function f2(a, b) {
 
     return (d) => c + d;
 }
+
+console.log(f2(3, 5)(8));
