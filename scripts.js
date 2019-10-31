@@ -10,3 +10,7 @@ function f2(a, b) {
 
 f1();
 console.log(f2(3, 5)(8));
+
+function beasting() {  
+    console.log("I f**k like a BEAST");
+}
