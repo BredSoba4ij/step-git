@@ -9,3 +9,4 @@ function f2(a, b) {
 }
 
 f1();
+console.log(f2(3, 5)(8));
